@@ -1,1 +1,3 @@
 # HQR
+
+collating stepwise
